@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by loadImagery.py.</comment>
+<images>
+  <image file='../imageryBases/03_rotated/dirt/42.115817,_-79.197452.png'>
+    <box top='241' left='255' width='138' height='148'/>
+  </image>
+  <image file='../imageryBases/03_rotated/dirt/42.126020,_-79.194110.png'>
+    <box top='228' left='242' width='157' height='163'/>
+  </image>
+  <image file='../imageryBases/03_rotated/dirt/42.091818,_-79.293692.png'>
+    <box top='240' left='237' width='167' height='160'/>
+  </image>
+  <image file='../imageryBases/03_rotated/dirt/42.106746,_-79.267122.png'>
+    <box top='248' left='249' width='141' height='151'/>
+  </image>
+  <image file='../imageryBases/03_rotated/dirt/42.106096,_-79.268090.png'>
+    <box top='246' left='250' width='144' height='154'/>
+  </image>
+  <image file='../imageryBases/03_rotated/dirt/42.105310,_-79.267085.png'>
+    <box top='246' left='249' width='141' height='154'/>
+  </image>
+  <image file='../imageryBases/03_rotated/dirt/42.051173,_-79.153366.png'>
+    <box top='255' left='241' width='150' height='141'/>
+  </image>
+  <image file='../imageryBases/03_rotated/dirt/42.074627,_-79.214840.png'>
+    <box top='220' left='226' width='182' height='172'/>
+  </image>
+  <image file='../imageryBases/03_rotated/dirt/42.073979,_-79.214175.png'>
+    <box top='225' left='230' width='179' height='169'/>
+  </image>
+  <image file='../imageryBases/03_rotated/dirt/42.990351,_-78.905066.png'>
+    <box top='224' left='235' width='168' height='183'/>
+  </image>
+  <image file='../imageryBases/03_rotated/dirt/42.989529,_-78.905526.png'>
+    <box top='226' left='240' width='156' height='172'/>
+  </image>
+  <image file='../imageryBases/03_rotated/dirt/42.989171,_-78.906654.png'>
+    <box top='228' left='236' width='160' height='176'/>
+  </image>
+  <image file='../imageryBases/03_rotated/dirt/42.989156,_-78.907883.png'>
+    <box top='228' left='241' width='159' height='170'/>
+  </image>
+  <image file='../imageryBases/03_rotated/dirt/42.983672,_-78.905479.png'>
+    <box top='243' left='242' width='152' height='147'/>
+  </image>
+  <image file='../imageryBases/03_rotated/dirt/42.982535,_-78.905893.png'>
+    <box top='243' left='249' width='144' height='147'/>
+  </image>
+  <image file='../imageryBases/03_rotated/dirt/42.981811,_-78.906270.png'>
+    <box top='239' left='243' width='146' height='143'/>
+  </image>
+  <image file='../imageryBases/03_rotated/dirt/42.981511,_-78.902843.png'>
+    <box top='238' left='237' width='164' height='160'/>
+  </image>
+  <image file='../imageryBases/03_rotated/dirt/43.008582,_-78.903352.png'>
+    <box top='246' left='242' width='168' height='162'/>
+  </image>
+  <image file='../imageryBases/03_rotated/dirt/42.970373,_-78.842812.png'>
+    <box top='190' left='202' width='230' height='224'/>
+  </image>
+  <image file='../imageryBases/03_rotated/dirt/42.969835,_-78.842138.png'>
+    <box top='196' left='208' width='233' height='211'/>
+  </image>
+  <image file='../imageryBases/03_rotated/dirt/42.970086,_-78.840572.png'>
+    <box top='200' left='205' width='230' height='215'/>
+  </image>
+  <image file='../imageryBases/03_rotated/dirt/42.970752,_-78.837513.png'>
+    <box top='217' left='226' width='189' height='193'/>
+  </image>
+  <image file='../imageryBases/03_rotated/dirt/42.969846,_-78.837516.png'>
+    <box top='218' left='224' width='191' height='193'/>
+  </image>
+  <image file='../imageryBases/03_rotated/dirt/42.969788,_-78.836320.png'>
+    <box top='213' left='226' width='186' height='188'/>
+  </image>
+  <image file='../imageryBases/03_rotated/dirt/42.969756,_-78.835510.png'>
+    <box top='214' left='221' width='188' height='188'/>
+  </image>
+  <image file='../imageryBases/03_rotated/dirt/43.003686,_-78.838928.png'>
+    <box top='225' left='233' width='182' height='172'/>
+  </image>
+  <image file='../imageryBases/03_rotated/dirt/43.003659,_-78.837745.png'>
+    <box top='225' left='236' width='181' height='169'/>
+  </image>
+  <image file='../imageryBases/03_rotated/dirt/43.025096,_-78.734915.png'>
+    <box top='226' left='232' width='177' height='174'/>
+  </image>
+  <image file='../imageryBases/03_rotated/dirt/43.025036,_-78.733376.png'>
+    <box top='231' left='247' width='159' height='165'/>
+  </image>
+  <image file='../imageryBases/03_rotated/dirt/43.227928,_-77.664319.png'>
+    <box top='230' left='227' width='180' height='167'/>
+  </image>
+  <image file='../imageryBases/03_rotated/dirt/43.217902,_-77.671706.png'>
+    <box top='239' left='245' width='156' height='166'/>
+  </image>
+</images>
+</dataset>

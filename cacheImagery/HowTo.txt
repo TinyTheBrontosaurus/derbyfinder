@@ -1,0 +1,12 @@
+How to collect data:
+
+1. Find good satellite imagery on google maps. Tips: go to familiar places. Type i random city then search for baseball fields
+2. Put in upper left (UL) and lower right (LR) lat/lon (decimal degrees) into the ParkLocations.ods spreadsheet. The lat/lons can be obtained by clicking on specific areas in google maps. Indicate in the row the number of baseball fields in that area and give it a label. That label will be used for filenames.
+3. Run ./loadImagery.py. This will download all tiles from the Google maps servers, stitch them together into a single image per row in the spreadsheet, then make multiple copies of that image in ../imagery/03_rotated equal to the number of fields in each area. Note that this script caches all the tiles in ../imagery/-1_rawTiles/. This is done because Google doesn't like their servers getting hit too hard with bots. 
+4. For each generated PNG file in 03_rotated:
+    a. Open in GIMP
+    b. Rotate the image such that the infield is aligned such that 2nd base of a field is up, and home to 2nd is as vertical in the image as possible. Similarly 1st and 3rd should be horizontal. Use the Rotate Tool (Shift-R or 3rd row 5th column in the toolbox).
+    c. Censor any infields that are not well-aligned using the Eraser Tool (Shift-E or 6th row 1st column in the toolbox). Works well with hardness set to 100 and size set to 200.0.
+    d. Save by clicking File->Overwrite as <filename>.png. Don't just save because that will save as Gimp's .xcf format (generally useful, but not useful here).
+    e. Cut/paste the file into the appropriate labelled folder (dirtBases, dirtOnly, or grassInfield). If there was more than one uncensored field in this picture, delete the appropriately numbered .png files (you determine the numbers for each field; the number is unimportant other than tracking which fields were already sorted) and touch .txt files with the same name in the labelled folder.
+    f. Note this takes about 90 seconds per field on average. 

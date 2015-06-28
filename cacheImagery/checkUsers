@@ -1,0 +1,19 @@
+#!/usr/bin/python
+
+#See which users are connected to the database
+
+from Config import Config
+import os
+
+def checkUsers():
+
+    data = Config.Instance().getConfig()
+
+    cmd = "psql -c \"select usename, application_name, client_addr,client_hostname " \
+          "from pg_stat_activity where datname='{}';\" {} {}".format( data["dbname"], data["admin"]["un"], data["admin"]["pw"] )
+
+    os.system( cmd )
+
+#Main program
+if __name__ == "__main__":
+    checkUsers()

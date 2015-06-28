@@ -1,0 +1,63 @@
+{
+    "dbname": "dfdb_release_00_02_00",
+    "host": "rug.lan",
+    "port": "5432",
+    "backupFile" : "./db/dbbackup.sql",
+    "nominal" :
+    {
+        "un" : "dfdbuser",
+        "pw" : "dfdbuser"
+    },
+    "admin" :
+    {
+	    "un" : "postgres",
+	    "pw" : "postgres"
+    },
+    "origin" :
+    {
+        "comment" : "Centered around home",
+        "lat" :  42.371542,
+        "lon" : -71.100810,
+        "radius" : 20000,
+        "zoom" : 19,
+        "stitchMag" : 4,
+        "stitchOverlap": 1
+    },
+    imagery" :
+    {
+        "folder" : "../imagery/",
+        "apiKey" : "MISSING_API_KEY"
+    },
+    "cacheImagery" :
+    {
+        "release" :
+        {
+            "useProcesses"  : "True",
+            "threadCount"   : 8
+        },
+        "debug" :
+        {
+            "useProcesses"  : "False",
+            "threadCount"   : 1
+        }
+    },
+    "detecting" :
+    {
+        "folder" : "../trainer/",
+        "tmpDirectory"  : "./tmp/",
+        "duplicates" :
+        {
+            "distance" : 10
+        },
+        "release" :
+        {
+            "useProcesses"  : "True",
+            "threadCount"   : 8
+        },
+        "debug" :
+        {
+            "useProcesses"  : "False",
+            "threadCount"   : 1
+        }
+    }
+}

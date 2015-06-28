@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by loadImagery.py.</comment>
+<images>
+  <image file='../imageryBases/03_rotated/grass/42.080753,_-79.258687.png'>
+    <box top='239' left='245' width='153' height='156'/>
+  </image>
+  <image file='../imageryBases/03_rotated/grass/42.080471,_-79.255617.png'>
+    <box top='221' left='229' width='182' height='179'/>
+  </image>
+  <image file='../imageryBases/03_rotated/grass/42.079539,_-79.256152.png'>
+    <box top='244' left='246' width='152' height='154'/>
+  </image>
+  <image file='../imageryBases/03_rotated/grass/42.079052,_-79.257494.png'>
+    <box top='193' left='189' width='260' height='235'/>
+  </image>
+  <image file='../imageryBases/03_rotated/grass/42.079627,_-79.258549.png'>
+    <box top='231' left='239' width='163' height='165'/>
+  </image>
+  <image file='../imageryBases/03_rotated/grass/42.078649,_-79.259349.png'>
+    <box top='241' left='243' width='156' height='161'/>
+  </image>
+  <image file='../imageryBases/03_rotated/grass/42.081970,_-79.222107.png'>
+    <box top='233' left='237' width='170' height='164'/>
+  </image>
+  <image file='../imageryBases/03_rotated/grass/42.115444,_-79.198478.png'>
+    <box top='234' left='235' width='166' height='163'/>
+  </image>
+  <image file='../imageryBases/03_rotated/grass/42.125214,_-79.195403.png'>
+    <box top='195' left='195' width='254' height='235'/>
+  </image>
+  <image file='../imageryBases/03_rotated/grass/42.102310,_-79.320525.png'>
+    <box top='192' left='197' width='250' height='235'/>
+  </image>
+  <image file='../imageryBases/03_rotated/grass/42.112098,_-79.244038.png'>
+    <box top='196' left='202' width='247' height='224'/>
+  </image>
+  <image file='../imageryBases/03_rotated/grass/42.112816,_-79.244748.png'>
+    <box top='243' left='240' width='154' height='158'/>
+  </image>
+  <image file='../imageryBases/03_rotated/grass/42.050668,_-79.154689.png'>
+    <box top='240' left='249' width='151' height='160'/>
+  </image>
+  <image file='../imageryBases/03_rotated/grass/42.161603,_-78.964858.png'>
+    <box top='240' left='240' width='166' height='154'/>
+  </image>
+  <image file='../imageryBases/03_rotated/grass/42.078145,_-79.216301.png'>
+    <box top='190' left='192' width='254' height='237'/>
+  </image>
+  <image file='../imageryBases/03_rotated/grass/42.075518,_-79.215428.png'>
+    <box top='198' left='194' width='255' height='230'/>
+  </image>
+  <image file='../imageryBases/03_rotated/grass/42.113107,_-79.219324.png'>
+    <box top='190' left='192' width='257' height='239'/>
+  </image>
+  <image file='../imageryBases/03_rotated/grass/42.990867,_-78.903585.png'>
+    <box top='205' left='206' width='230' height='217'/>
+  </image>
+  <image file='../imageryBases/03_rotated/grass/42.982062,_-78.902136.png'>
+    <box top='186' left='191' width='256' height='239'/>
+  </image>
+  <image file='../imageryBases/03_rotated/grass/43.010275,_-78.903291.png'>
+    <box top='203' left='204' width='245' height='235'/>
+  </image>
+  <image file='../imageryBases/03_rotated/grass/43.009192,_-78.902128.png'>
+    <box top='196' left='192' width='266' height='248'/>
+  </image>
+  <image file='../imageryBases/03_rotated/grass/42.973424,_-78.835241.png'>
+    <box top='199' left='204' width='227' height='235'/>
+  </image>
+  <image file='../imageryBases/03_rotated/grass/43.008010,_-78.794296.png'>
+    <box top='188' left='179' width='274' height='241'/>
+  </image>
+  <image file='../imageryBases/03_rotated/grass/43.009720,_-78.870340.png'>
+    <box top='196' left='200' width='243' height='233'/>
+  </image>
+  <image file='../imageryBases/03_rotated/grass/43.008913,_-78.867797.png'>
+    <box top='235' left='246' width='160' height='167'/>
+  </image>
+  <image file='../imageryBases/03_rotated/grass/43.008365,_-78.868150.png'>
+    <box top='248' left='247' width='157' height='152'/>
+    <box top='391' left='15' width='181' height='203' ignore='1'/>
+    <box top='532' left='325' width='158' height='114' ignore='1'/>
+  </image>
+  <image file='../imageryBases/03_rotated/grass/43.008345,_-78.867412.png'>
+    <box top='225' left='227' width='188' height='180'/>
+    <box top='93' left='478' width='145' height='158' ignore='1'/>
+    <box top='392' left='521' width='147' height='170' ignore='1'/>
+  </image>
+  <image file='../imageryBases/03_rotated/grass/43.003778,_-78.841803.png'>
+    <box top='218' left='225' width='190' height='182'/>
+  </image>
+</images>
+</dataset>

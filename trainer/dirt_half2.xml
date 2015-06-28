@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by loadImagery.py.</comment>
+<images>
+  <image file='../imageryBases/03_rotated/dirt/43.217957,_-77.673593.png'>
+    <box top='239' left='241' width='156' height='158'/>
+  </image>
+  <image file='../imageryBases/03_rotated/dirt/43.187937,_-77.644877.png'>
+    <box top='229' left='228' width='179' height='163'/>
+  </image>
+  <image file='../imageryBases/03_rotated/dirt/40.814494,_-81.936420.png'>
+    <box top='238' left='243' width='156' height='151'/>
+  </image>
+  <image file='../imageryBases/03_rotated/dirt/41.378398,_-81.975228.png'>
+    <box top='230' left='234' width='171' height='157'/>
+  </image>
+  <image file='../imageryBases/03_rotated/dirt/41.378141,_-81.976485.png'>
+    <box top='194' left='214' width='228' height='210'/>
+  </image>
+  <image file='../imageryBases/03_rotated/dirt/41.378154,_-81.977481.png'>
+    <box top='199' left='209' width='223' height='209'/>
+  </image>
+  <image file='../imageryBases/03_rotated/dirt/41.377387,_-81.977533.png'>
+    <box top='199' left='204' width='224' height='205'/>
+  </image>
+  <image file='../imageryBases/03_rotated/dirt/41.377317,_-81.975438.png'>
+    <box top='200' left='206' width='225' height='227'/>
+  </image>
+  <image file='../imageryBases/03_rotated/dirt/41.376320,_-81.977746.png'>
+    <box top='201' left='181' width='284' height='207'/>
+  </image>
+  <image file='../imageryBases/03_rotated/dirt/41.376292,_-81.976778.png'>
+    <box top='194' left='195' width='253' height='224'/>
+  </image>
+  <image file='../imageryBases/03_rotated/dirt/41.199096,_-81.658542.png'>
+    <box top='236' left='229' width='181' height='164'/>
+  </image>
+  <image file='../imageryBases/03_rotated/dirt/41.198658,_-81.658033.png'>
+    <box top='233' left='231' width='180' height='168'/>
+  </image>
+  <image file='../imageryBases/03_rotated/dirt/41.198259,_-81.658660.png'>
+    <box top='235' left='241' width='164' height='153'/>
+  </image>
+  <image file='../imageryBases/03_rotated/dirt/41.198675,_-81.659124.png'>
+    <box top='233' left='233' width='170' height='151'/>
+  </image>
+  <image file='../imageryBases/03_rotated/dirt/41.198653,_-81.656950.png'>
+    <box top='180' left='194' width='252' height='245'/>
+  </image>
+  <image file='../imageryBases/03_rotated/dirt/41.511470,_-81.641946.png'>
+    <box top='238' left='240' width='168' height='164'/>
+  </image>
+  <image file='../imageryBases/03_rotated/dirt/41.486829,_-82.046136.png'>
+    <box top='219' left='214' width='214' height='187'/>
+  </image>
+  <image file='../imageryBases/03_rotated/dirt/41.486791,_-82.045242.png'>
+    <box top='204' left='210' width='220' height='194'/>
+  </image>
+  <image file='../imageryBases/03_rotated/dirt/41.485960,_-82.046028.png'>
+    <box top='196' left='198' width='248' height='223'/>
+  </image>
+  <image file='../imageryBases/03_rotated/dirt/41.485985,_-82.044701.png'>
+    <box top='226' left='215' width='213' height='186'/>
+  </image>
+  <image file='../imageryBases/03_rotated/dirt/41.486036,_-82.043846.png'>
+    <box top='239' left='215' width='207' height='169'/>
+  </image>
+  <image file='../imageryBases/03_rotated/dirt/41.487107,_-82.043057.png'>
+    <box top='244' left='256' width='128' height='157' ignore='1'/>
+  </image>
+  <image file='../imageryBases/03_rotated/dirt/41.487105,_-82.042507.png'>
+    <box top='250' left='255' width='134' height='148' ignore='1'/>
+  </image>
+  <image file='../imageryBases/03_rotated/dirt/41.486681,_-82.042504.png'>
+    <box top='214' left='223' width='193' height='186' ignore='1'/>
+  </image>
+  <image file='../imageryBases/03_rotated/dirt/41.486694,_-82.043065.png'>
+    <box top='250' left='255' width='138' height='143' ignore='1'/>
+  </image>
+  <image file='../imageryBases/03_rotated/dirt/41.487106,_-82.042511.png'>
+    <box top='250' left='251' width='138' height='150' ignore='1'/>
+  </image>
+  <image file='../imageryBases/03_rotated/dirt/41.487110,_-82.043058.png'>
+    <box top='246' left='257' width='131' height='155' ignore='1'/>
+  </image>
+  <image file='../imageryBases/03_rotated/dirt/39.062940,_-95.710330.png'>
+    <box top='250' left='249' width='141' height='146'/>
+  </image>
+  <image file='../imageryBases/03_rotated/dirt/39.062039,_-95.710324.png'>
+    <box top='249' left='248' width='147' height='146'/>
+  </image>
+</images>
+</dataset>

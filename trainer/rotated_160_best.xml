@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by loadImagery.py.</comment>
+<images>
+  <image file='/media/Media/derbyfinderimagery/imageryBases/03_rotated/grass/rotated_160_40.826064,_-81.923684.png'>
+    <box top='333' left='338' width='142' height='145'/>
+  </image>
+  <image file='/media/Media/derbyfinderimagery/imageryBases/03_rotated/grass/rotated_160_40.759642,_-81.976758.png'>
+    <box top='297' left='282' width='242' height='234'/>
+  </image>
+  <image file='/media/Media/derbyfinderimagery/imageryBases/03_rotated/grass/rotated_160_40.812421,_-81.930571.png'>
+    <box top='306' left='283' width='242' height='230'/>
+  </image>
+  <image file='/media/Media/derbyfinderimagery/imageryBases/03_rotated/grass/rotated_160_41.495900,_-81.685288.png'>
+    <box top='295' left='283' width='246' height='240'/>
+  </image>
+  <image file='/media/Media/derbyfinderimagery/imageryBases/03_rotated/grass/rotated_160_41.376262,_-81.975466.png'>
+    <box top='308' left='283' width='242' height='229'/>
+  </image>
+  <image file='/media/Media/derbyfinderimagery/imageryBases/03_rotated/grass/rotated_160_41.511677,_-81.643479.png'>
+    <box top='299' left='283' width='247' height='243'/>
+  </image>
+  <image file='/media/Media/derbyfinderimagery/imageryBases/03_rotated/grass/rotated_160_39.014078,_-95.617429.png'>
+    <box top='326' left='319' width='177' height='174'/>
+  </image>
+  <image file='/media/Media/derbyfinderimagery/imageryBases/03_rotated/grass/rotated_160_39.014274,_-95.616651.png'>
+    <box top='328' left='331' width='160' height='158'/>
+  </image>
+  <image file='/media/Media/derbyfinderimagery/imageryBases/03_rotated/grass/rotated_160_39.013655,_-95.616341.png'>
+    <box top='327' left='332' width='158' height='160'/>
+  </image>
+  <image file='/media/Media/derbyfinderimagery/imageryBases/03_rotated/grass/rotated_160_39.013415,_-95.617380.png'>
+    <box top='323' left='318' width='179' height='176'/>
+  </image>
+  <image file='/media/Media/derbyfinderimagery/imageryBases/03_rotated/grass/rotated_160_39.013560,_-95.615273.png'>
+    <box top='306' left='286' width='238' height='231'/>
+  </image>
+  <image file='/media/Media/derbyfinderimagery/imageryBases/03_rotated/grass/rotated_160_39.012572,_-95.615437.png'>
+    <box top='314' left='284' width='237' height='229'/>
+  </image>
+  <image file='/media/Media/derbyfinderimagery/imageryBases/03_rotated/grass/rotated_160_39.030990,_-95.703082.png'>
+    <box top='306' left='290' width='234' height='226'/>
+  </image>
+  <image file='/media/Media/derbyfinderimagery/imageryBases/03_rotated/grass/rotated_160_39.062876,_-95.713608.png'>
+    <box top='302' left='285' width='239' height='234'/>
+  </image>
+  <image file='/media/Media/derbyfinderimagery/imageryBases/03_rotated/grass/rotated_160_39.061951,_-95.713161.png'>
+    <box top='304' left='286' width='238' height='232'/>
+  </image>
+  <image file='/media/Media/derbyfinderimagery/imageryBases/03_rotated/grass/rotated_160_40.740713,_-111.892804.png'>
+    <box top='298' left='282' width='247' height='241'/>
+  </image>
+  <image file='/media/Media/derbyfinderimagery/imageryBases/03_rotated/grass/rotated_160_40.585882,_-111.976680.png'>
+    <box top='304' left='286' width='236' height='228' ignore='1'/>
+  </image>
+  <image file='/media/Media/derbyfinderimagery/imageryBases/03_rotated/dirt/rotated_160_43.217957,_-77.673593.png'>
+    <box top='333' left='331' width='156' height='157'/>
+  </image>
+  <image file='/media/Media/derbyfinderimagery/imageryBases/03_rotated/dirt/rotated_160_43.187937,_-77.644877.png'>
+    <box top='336' left='321' width='174' height='166'/>
+  </image>
+  <image file='/media/Media/derbyfinderimagery/imageryBases/03_rotated/dirt/rotated_160_40.814494,_-81.936420.png'>
+    <box top='339' left='329' width='154' height='152'/>
+  </image>
+  <image file='/media/Media/derbyfinderimagery/imageryBases/03_rotated/dirt/rotated_160_41.378398,_-81.975228.png'>
+    <box top='340' left='323' width='167' height='160'/>
+  </image>
+  <image file='/media/Media/derbyfinderimagery/imageryBases/03_rotated/dirt/rotated_160_41.378141,_-81.976485.png'>
+    <box top='319' left='283' width='222' height='214'/>
+  </image>
+  <image file='/media/Media/derbyfinderimagery/imageryBases/03_rotated/dirt/rotated_160_41.378154,_-81.977481.png'>
+    <box top='319' left='294' width='218' height='213'/>
+  </image>
+  <image file='/media/Media/derbyfinderimagery/imageryBases/03_rotated/dirt/rotated_160_41.377387,_-81.977533.png'>
+    <box top='324' left='298' width='219' height='209'/>
+  </image>
+  <image file='/media/Media/derbyfinderimagery/imageryBases/03_rotated/dirt/rotated_160_41.377317,_-81.975438.png'>
+    <box top='303' left='297' width='225' height='226'/>
+  </image>
+  <image file='/media/Media/derbyfinderimagery/imageryBases/03_rotated/dirt/rotated_160_41.376320,_-81.977746.png'>
+    <box top='311' left='271' width='261' height='224'/>
+  </image>
+  <image file='/media/Media/derbyfinderimagery/imageryBases/03_rotated/dirt/rotated_160_41.376292,_-81.976778.png'>
+    <box top='307' left='281' width='244' height='231'/>
+  </image>
+  <image file='/media/Media/derbyfinderimagery/imageryBases/03_rotated/dirt/rotated_160_41.199096,_-81.658542.png'>
+    <box top='327' left='321' width='176' height='168'/>
+  </image>
+  <image file='/media/Media/derbyfinderimagery/imageryBases/03_rotated/dirt/rotated_160_41.198658,_-81.658033.png'>
+    <box top='327' left='319' width='176' height='171'/>
+  </image>
+  <image file='/media/Media/derbyfinderimagery/imageryBases/03_rotated/dirt/rotated_160_41.198259,_-81.658660.png'>
+    <box top='338' left='323' width='160' height='156'/>
+  </image>
+  <image file='/media/Media/derbyfinderimagery/imageryBases/03_rotated/dirt/rotated_160_41.198675,_-81.659124.png'>
+    <box top='344' left='325' width='165' height='155'/>
+  </image>
+</images>
+</dataset>

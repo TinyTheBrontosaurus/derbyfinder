@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by loadImagery.py.</comment>
+<images>
+  <image file='../imageryBases/03_rotated/grass/43.003510,_-78.840593.png'>
+    <box top='190' left='191' width='260' height='250'/>
+  </image>
+  <image file='../imageryBases/03_rotated/grass/43.003182,_-78.839494.png'>
+    <box top='218' left='227' width='192' height='187'/>
+    <box top='-4' left='-22' width='117' height='163' ignore='1'/>
+    <box top='8' left='532' width='125' height='189' ignore='1'/>
+  </image>
+  <image file='../imageryBases/03_rotated/grass/43.002782,_-78.838083.png'>
+    <box top='189' left='190' width='261' height='238'/>
+  </image>
+  <image file='../imageryBases/03_rotated/grass/43.021895,_-78.736491.png'>
+    <box top='190' left='195' width='255' height='251'/>
+  </image>
+  <image file='../imageryBases/03_rotated/grass/43.226889,_-77.664108.png'>
+    <box top='192' left='190' width='265' height='242'/>
+  </image>
+  <image file='../imageryBases/03_rotated/grass/43.219761,_-77.671848.png'>
+    <box top='201' left='197' width='262' height='238'/>
+  </image>
+  <image file='../imageryBases/03_rotated/grass/43.218695,_-77.671864.png'>
+    <box top='196' left='198' width='252' height='232'/>
+  </image>
+  <image file='../imageryBases/03_rotated/grass/43.187148,_-77.646567.png'>
+    <box top='184' left='187' width='264' height='249'/>
+  </image>
+  <image file='../imageryBases/03_rotated/grass/40.828090,_-81.924384.png'>
+    <box top='248' left='246' width='142' height='139' ignore='1'/>
+    <box top='474' left='514' width='138' height='153' ignore='1'/>
+  </image>
+  <image file='../imageryBases/03_rotated/grass/40.827394,_-81.924262.png'>
+    <box top='245' left='252' width='142' height='152'/>
+    <box top='-4' left='30' width='135' height='139' ignore='1'/>
+  </image>
+  <image file='../imageryBases/03_rotated/grass/40.826357,_-81.924186.png'>
+    <box top='244' left='247' width='153' height='155'/>
+  </image>
+</images>
+</dataset>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by loadImagery.py.</comment>
+<images>
+  <image file='../imageryBases/03_rotated/bases/43.008969,_-78.794044.png'>
+    <box top='245' left='249' width='147' height='150'/>
+  </image>
+  <image file='../imageryBases/03_rotated/bases/43.008241,_-78.866931.png'>
+    <box top='269' left='267' width='107' height='110'/>
+  </image>
+  <image file='../imageryBases/03_rotated/bases/40.587083,_-111.975745.png'>
+    <box top='193' left='197' width='251' height='236'/>
+  </image>
+</images>
+</dataset>

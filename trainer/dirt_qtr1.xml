@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by loadImagery.py.</comment>
+<images>
+  <image file='../imageryBases/03_rotated/dirt/42.115817,_-79.197452.png'>
+    <box top='241' left='255' width='138' height='148'/>
+  </image>
+  <image file='../imageryBases/03_rotated/dirt/42.126020,_-79.194110.png'>
+    <box top='228' left='242' width='157' height='163'/>
+  </image>
+  <image file='../imageryBases/03_rotated/dirt/42.091818,_-79.293692.png'>
+    <box top='240' left='237' width='167' height='160'/>
+  </image>
+  <image file='../imageryBases/03_rotated/dirt/42.106746,_-79.267122.png'>
+    <box top='248' left='249' width='141' height='151'/>
+  </image>
+  <image file='../imageryBases/03_rotated/dirt/42.106096,_-79.268090.png'>
+    <box top='246' left='250' width='144' height='154'/>
+  </image>
+  <image file='../imageryBases/03_rotated/dirt/42.105310,_-79.267085.png'>
+    <box top='246' left='249' width='141' height='154'/>
+  </image>
+  <image file='../imageryBases/03_rotated/dirt/42.051173,_-79.153366.png'>
+    <box top='255' left='241' width='150' height='141'/>
+  </image>
+  <image file='../imageryBases/03_rotated/dirt/42.074627,_-79.214840.png'>
+    <box top='220' left='226' width='182' height='172'/>
+  </image>
+  <image file='../imageryBases/03_rotated/dirt/42.073979,_-79.214175.png'>
+    <box top='225' left='230' width='179' height='169'/>
+  </image>
+  <image file='../imageryBases/03_rotated/dirt/42.990351,_-78.905066.png'>
+    <box top='224' left='235' width='168' height='183'/>
+  </image>
+  <image file='../imageryBases/03_rotated/dirt/42.989529,_-78.905526.png'>
+    <box top='226' left='240' width='156' height='172'/>
+  </image>
+  <image file='../imageryBases/03_rotated/dirt/42.989171,_-78.906654.png'>
+    <box top='228' left='236' width='160' height='176'/>
+  </image>
+  <image file='../imageryBases/03_rotated/dirt/42.989156,_-78.907883.png'>
+    <box top='228' left='241' width='159' height='170'/>
+  </image>
+  <image file='../imageryBases/03_rotated/dirt/42.983672,_-78.905479.png'>
+    <box top='243' left='242' width='152' height='147'/>
+  </image>
+</images>
+</dataset>
